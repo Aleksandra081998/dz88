@@ -1,0 +1,16 @@
+C:\Users\Bandix\Desktop\dz_8\Task62\bin\Debug\net6.0\Task62.exe
+C:\Users\Bandix\Desktop\dz_8\Task62\bin\Debug\net6.0\Task62.deps.json
+C:\Users\Bandix\Desktop\dz_8\Task62\bin\Debug\net6.0\Task62.runtimeconfig.json
+C:\Users\Bandix\Desktop\dz_8\Task62\bin\Debug\net6.0\Task62.dll
+C:\Users\Bandix\Desktop\dz_8\Task62\bin\Debug\net6.0\ref\Task62.dll
+C:\Users\Bandix\Desktop\dz_8\Task62\bin\Debug\net6.0\Task62.pdb
+C:\Users\Bandix\Desktop\dz_8\Task62\obj\Debug\net6.0\Task62.GlobalUsings.g.cs
+C:\Users\Bandix\Desktop\dz_8\Task62\obj\Debug\net6.0\Task62.csproj.AssemblyReference.cache
+C:\Users\Bandix\Desktop\dz_8\Task62\obj\Debug\net6.0\Task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bandix\Desktop\dz_8\Task62\obj\Debug\net6.0\Task62.AssemblyInfoInputs.cache
+C:\Users\Bandix\Desktop\dz_8\Task62\obj\Debug\net6.0\Task62.AssemblyInfo.cs
+C:\Users\Bandix\Desktop\dz_8\Task62\obj\Debug\net6.0\Task62.csproj.CoreCompileInputs.cache
+C:\Users\Bandix\Desktop\dz_8\Task62\obj\Debug\net6.0\Task62.dll
+C:\Users\Bandix\Desktop\dz_8\Task62\obj\Debug\net6.0\ref\Task62.dll
+C:\Users\Bandix\Desktop\dz_8\Task62\obj\Debug\net6.0\Task62.pdb
+C:\Users\Bandix\Desktop\dz_8\Task62\obj\Debug\net6.0\Task62.genruntimeconfig.cache
